@@ -141,6 +141,18 @@
   <ItemGroup>
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\OneDrive\바탕 화면\Backgrounds SMB3.bmp" />
+    <Image Include="..\..\..\OneDrive\바탕 화면\Goombas.bmp" />
+    <Image Include="..\..\..\OneDrive\바탕 화면\Univ\2022-1\윈도우프로그래밍\2022-1 윈도우프로그래밍 최종 팀프로젝트\Bitmap Resource\Big Gate.bmp" />
+    <Image Include="..\..\..\OneDrive\바탕 화면\Univ\2022-1\윈도우프로그래밍\2022-1 윈도우프로그래밍 최종 팀프로젝트\Resource\Nintendo Switch - Super Mario Maker 2 - Backgrounds SMB3.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

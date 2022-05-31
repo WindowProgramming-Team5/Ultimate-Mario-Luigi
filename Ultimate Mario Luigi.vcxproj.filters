@@ -19,4 +19,28 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\OneDrive\바탕 화면\Univ\2022-1\윈도우프로그래밍\2022-1 윈도우프로그래밍 최종 팀프로젝트\Resource\Nintendo Switch - Super Mario Maker 2 - Backgrounds SMB3.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\OneDrive\바탕 화면\Backgrounds SMB3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\OneDrive\바탕 화면\Goombas.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\OneDrive\바탕 화면\Univ\2022-1\윈도우프로그래밍\2022-1 윈도우프로그래밍 최종 팀프로젝트\Bitmap Resource\Big Gate.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
 </Project>
