@@ -42,5 +42,11 @@
     <Image Include="..\..\..\OneDrive\바탕 화면\Univ\2022-1\윈도우프로그래밍\2022-1 윈도우프로그래밍 최종 팀프로젝트\Bitmap Resource\Big Gate.bmp">
       <Filter>리소스 파일</Filter>
     </Image>
+    <Image Include="..\..\..\OneDrive\바탕 화면\Univ\2022-1\윈도우프로그래밍\2022-1 윈도우프로그래밍 최종 팀프로젝트\Bitmap Resource\Mario Overworld (1).bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\OneDrive\바탕 화면\Luigi Overworld.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
   </ItemGroup>
 </Project>

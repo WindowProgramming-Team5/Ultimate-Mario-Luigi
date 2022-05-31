@@ -56,6 +56,10 @@ IDB_BITMAP2             BITMAP                  "C:\\Users\\ASUS\\OneDrive\\바탕
 
 IDB_BITMAP3             BITMAP                  "C:\\Users\\ASUS\\OneDrive\\바탕 화면\\Univ\\2022-1\\윈도우프로그래밍\\2022-1 윈도우프로그래밍 최종 팀프로젝트\\Bitmap Resource\\Big Gate.bmp"
 
+IDB_BITMAP4             BITMAP                  "C:\\Users\\ASUS\\OneDrive\\바탕 화면\\Univ\\2022-1\\윈도우프로그래밍\\2022-1 윈도우프로그래밍 최종 팀프로젝트\\Bitmap Resource\\Mario Overworld (1).bmp"
+
+IDB_BITMAP5             BITMAP                  "C:\\Users\\ASUS\\OneDrive\\바탕 화면\\Luigi Overworld.bmp"
+
 #endif    // 한국어(대한민국) resources
 /////////////////////////////////////////////////////////////////////////////
 
