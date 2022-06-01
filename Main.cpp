@@ -175,7 +175,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT uMsg, WPARAM wParam, LPARAM lParam)
 			}
 			// Luigi into gate
 			else if (IntersectRect(&temp, &gateSpot, &luigi.rect)) {
-
+				
 			}
 			break;
 		default:
