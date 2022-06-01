@@ -38,6 +38,9 @@ Player luigi;
 Monster gumba[MAX_MONSTER];
 Monster troopa[MAX_MONSTER];
 
+Item wood;
+Item bomb;
+
 RECT gateSpot;	// EndLineBox
 
 RECT temp;	// Just temp
